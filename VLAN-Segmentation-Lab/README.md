@@ -19,6 +19,14 @@ This lab demonstrates VLAN segmentation to separate guest and internal traffic w
 - ACLs
 - Cisco Packet Tracer
 
+## Addressing Plan
+- VLAN 10 (Internal): 192.168.10.0/24
+  - Gateway: 192.168.10.1
+- VLAN 20 (Guest): 192.168.20.0/24
+  - Gateway: 192.168.20.1
+- WAN: 200.1.1.0/24
+  - Router Outside: 200.1.1.1
+
 ## Validation
 The lab verifies:
 - Internal network communication works
@@ -26,8 +34,9 @@ The lab verifies:
 - Guest network blocked from internal resources
 
 ## Structure
-- `topology/` → Packet Tracer lab file
-- `screenshots/` → configuration and validation steps
+- topology/ → Packet Tracer lab file
+- screenshots/ → configuration and validation steps
+- configs/ → router and switch running configurations
 
 ## Key Takeaway
 This design keeps the architecture clean and scalable while improving security for small business environments.
