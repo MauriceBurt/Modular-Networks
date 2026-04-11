@@ -34,9 +34,9 @@ The lab verifies:
 - Guest network blocked from internal resources
 
 ## Structure
-- topology/ → Packet Tracer lab file
-- screenshots/ → configuration and validation steps
-- configs/ → router and switch running configurations
+- [topology/](./topology) → Packet Tracer lab file
+- [screenshots/](./screenshots) → configuration and validation steps
+- [configs/](./configs) → router and switch running configurations
 
 ## Key Takeaway
 This design keeps the architecture clean and scalable while improving security for small business environments.
