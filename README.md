@@ -25,11 +25,13 @@ Each lab is built with a focus on:
 ## Structure
 Each folder represents a standalone networking lab:
 
+```
 Lab-Name/
 ├── README.md
 ├── topology/
 ├── screenshots/
 └── configs/
+```
 
 ## Current Labs
 - VLAN Segmentation – Coffee Shop Guest WiFi
