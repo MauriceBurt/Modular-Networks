@@ -10,7 +10,7 @@ These designs reflect practical scenarios businesses face when balancing accessi
 
 🔹 [Guest Wi-Fi Segmentation](https://github.com/MauriceBurt/Guest_Wifi_Segmentation)
 
-🔹 VLAN Segmentation *(being restructured)*
+🔹 [MoCo VLAN Segmentation](https://github.com/MauriceBurt/MoCo_VLAN_Segmentation)
 
 ---
 
