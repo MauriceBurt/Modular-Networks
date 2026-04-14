@@ -1,42 +1,38 @@
-# Modular Networks Labs
+# Modular Networks
 
-This repository contains hands-on networking labs focused on clean, scalable, and real-world network design.
+A collection of network design implementations focused on real-world architecture, segmentation, and secure access control.
 
-## Purpose
-The goal of this repository is to showcase practical networking skills through structured lab environments. Each lab simulates a realistic business scenario and demonstrates how network architecture decisions impact security, scalability, and performance.
+These designs reflect practical scenarios businesses face when balancing accessibility and security.
 
-## What You'll Find Here
-- VLAN segmentation labs
-- Inter-VLAN routing
-- Router-on-a-stick configurations
-- NAT and ACL implementations
-- Small business network simulations
-- Step-by-step validation screenshots
-- Packet Tracer topology files
+---
 
-## Design Philosophy
-Each lab is built with a focus on:
-- Clean architecture
+## Designs
+
+🔹 [Guest Wi-Fi Segmentation](https://github.com/MauriceBurt/Guest_Wifi_Segmentation)
+
+🔹 VLAN Segmentation *(being restructured)*
+
+---
+
+## Focus Areas
+
+- Network segmentation (VLANs)
+- Secure guest access design
+- Inter-VLAN routing (router-on-a-stick)
+- Access control (ACLs)
+- Real-world network architecture
+
+---
+
+## Philosophy
+
+Each design is built with a focus on:
+
+- Simplicity
 - Scalability
-- Security segmentation
-- Real-world applicability
-- Clear documentation
+- Security
+- Real-world application
 
-## Structure
-Each folder represents a standalone networking lab:
+---
 
-```
-Lab-Name/
-├── README.md
-├── topology/
-├── screenshots/
-└── configs/
-```
-
-## Current Labs
-- VLAN Segmentation – Coffee Shop Guest WiFi
-
-More labs will be added as the environment grows.
-
-## Goal
-This repository serves as a portfolio of practical network engineering skills and demonstrates the ability to design, implement, and validate real-world network solutions.
+More designs coming soon.
