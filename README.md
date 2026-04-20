@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Transparent_PNG.png" width="450"/>
+</p>
+
 # Modular Networks
 
 A collection of network design implementations focused on real-world architecture, segmentation, and secure access control.
