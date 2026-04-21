@@ -4,27 +4,30 @@
 
 # Modular Networks
 
-A collection of network design implementations focused on real-world architecture, segmentation, and secure access control.
+A collection of network designs built around real-world scenarios, focusing on segmentation, secure access control, and scalable architecture.
 
-These designs reflect practical scenarios businesses face when balancing accessibility and security.
+Each design reflects how networks evolve as environments grow — from simple guest access to multi-department infrastructures with layered security.
 
 ---
 
 ## Designs
 
-🔹 [Guest Wi-Fi Segmentation](https://github.com/MauriceBurt/Guest_Wifi_Segmentation)
+🔹 [Guest Wi-Fi Segmentation](https://github.com/MauriceBurt/Guest_Wifi_Segmentation) — Baseline guest network isolation
 
-🔹 [MoCo VLAN Segmentation](https://github.com/MauriceBurt/MoCo_VLAN_Segmentation)
+🔹 [MoCo VLAN Segmentation](https://github.com/MauriceBurt/MoCo_VLAN_Segmentation) — Multi-VLAN architecture with controlled inter-VLAN routing
+
+🔹 [MoCo Family Center Network Design](https://github.com/MauriceBurt/MoCo-Family-Center-Network-Design) — Multi-department network with ACL enforcement and physical port security
 
 ---
 
 ## Focus Areas
 
-- Network segmentation (VLANs)
-- Secure guest access design
-- Inter-VLAN routing (router-on-a-stick)
-- Access control (ACLs)
-- Real-world network architecture
+- VLAN segmentation across multi-department environments  
+- Secure guest network design with enforced isolation  
+- Inter-VLAN routing (router-on-a-stick, 802.1Q)  
+- Access control using ACLs for traffic segmentation  
+- Physical port security and access-layer protection  
+- Scalable, real-world network architecture  
 
 ---
 
@@ -32,11 +35,13 @@ These designs reflect practical scenarios businesses face when balancing accessi
 
 Each design is built with a focus on:
 
-- Simplicity
-- Scalability
-- Security
-- Real-world application
+- Clarity over complexity  
+- Scalable architecture that grows with the environment  
+- Security at both the logical and physical layers  
+- Practical, real-world implementation over theory  
+
+The goal is to design networks that don’t just function — but hold up under real-world conditions.
 
 ---
 
-More designs coming soon.
+More designs will continue to build on this foundation as the MoCo environment expands.
