@@ -10,13 +10,39 @@ Each design reflects how networks evolve as environments grow — from simple gu
 
 ---
 
+## Design Library
+
 ## Designs
 
-🔹 [Guest Wi-Fi Segmentation](https://github.com/MauriceBurt/Guest_Wifi_Segmentation) — Baseline guest network isolation
+🔹 Guest Wi-Fi Segmentation  
+<a href="https://github.com/MauriceBurt/Guest_Wifi_Segmentation">
+  <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Baseline guest network isolation
 
-🔹 [MoCo VLAN Segmentation](https://github.com/MauriceBurt/MoCo_VLAN_Segmentation) — Multi-VLAN architecture with controlled inter-VLAN routing
+---
 
-🔹 [MoCo Family Center Network Design](https://github.com/MauriceBurt/MoCo-Family-Center-Network-Design) — Multi-department network with ACL enforcement and physical port security
+🔹 MoCo VLAN Segmentation  
+<a href="https://github.com/MauriceBurt/MoCo_VLAN_Segmentation">
+  <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Multi-VLAN architecture with controlled inter-VLAN routing
+
+---
+
+🔹 MoCo Family Center Network Design  
+<a href="https://github.com/MauriceBurt/MoCo-Family-Center-Network-Design">
+  <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Multi-department network with ACL enforcement and physical port security
+
+---
+
+🔹 Ransomware Containment & Failover Design 🚨  
+<a href="https://github.com/MauriceBurt/MoCo-Ransomware-Failover-Design">
+  <img src="https://img.shields.io/badge/View-Incident%20Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Detection, containment, and warm-site failover strategy for business continuity
 
 ---
 
