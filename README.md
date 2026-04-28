@@ -12,8 +12,6 @@ Each design reflects how networks evolve as environments grow — from simple gu
 
 ## Design Library
 
-## Designs
-
 🔹 Guest Wi-Fi Segmentation  
 <a href="https://github.com/MauriceBurt/Guest_Wifi_Segmentation">
   <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
