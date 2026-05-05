@@ -44,6 +44,14 @@ Detection, containment, and warm-site failover strategy for business continuity
 
 ---
 
+🔹 Spark of Life Theatre Production 🎭  
+<a href="https://github.com/MauriceBurt/Spark-Of-Life-Theatre-Production">
+  <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Live event network with segmented access for guests, staff, IoT stage systems, and an isolated stage manager control network
+
+---
+
 ## Focus Areas
 
 - VLAN segmentation across multi-department environments  
@@ -68,4 +76,4 @@ The goal is to design networks that don’t just function — but hold up under 
 
 ---
 
-More designs will continue to build on this foundation as the MoCo environment expands.
+More designs will continue to build on this foundation as the Modular Networks environment expands.
