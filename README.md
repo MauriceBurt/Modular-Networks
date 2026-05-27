@@ -51,6 +51,13 @@ Detection, containment, and warm-site failover strategy for business continuity
 Live event network with segmented access for guests, staff, IoT stage systems, and an isolated stage manager control network
 
 ---
+🔹 MadX Games Gaming Expo Infrastructure 🎮  
+<a href="https://github.com/MauriceBurt/MadXGames_Gaming_Expo">
+  <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Segmented esports convention infrastructure supporting tournament systems, guest Wi-Fi, vendor operations, VIP access, security coordination, and AV production environments
+
+---
 
 ## Focus Areas
 
