@@ -58,7 +58,13 @@ Live event network with segmented access for guests, staff, IoT stage systems, a
 Segmented esports convention infrastructure supporting tournament systems, guest Wi-Fi, vendor operations, VIP access, security coordination, and AV production environments
 
 ---
+🔹 MoCo Stadium Blackout Recovery ⚾⚡  
+<a href="https://github.com/MauriceBurt/MoCo_Stadium_Blackout_Recovery">
+  <img src="https://img.shields.io/badge/View-Design-6c757d?style=for-the-badge&logo=github"/>
+</a>  
+Business continuity and disaster recovery design for a multi-floor stadium environment featuring segmented wireless infrastructure, operational resilience, power outage recovery planning, and protected communications for security, vendors, staff, and stadium operations
 
+---
 ## Focus Areas
 
 - VLAN segmentation across multi-department environments  
